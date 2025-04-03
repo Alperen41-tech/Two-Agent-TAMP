@@ -42,7 +42,7 @@ r2 (base_origin2) {
 # Moveble objects
 
 
-m1 (world){
+m1 {
 
     X: "t(1 0 0.11)"
     shape: ssBox
@@ -53,7 +53,7 @@ m1 (world){
 }
 
 
-m2 (world){
+m2{
     X: "t(-1 0 0.11)"
     shape: ssBox
     size: [0.4, 0.4, 0.2, 0.01]
@@ -93,6 +93,15 @@ goal_area2 (g2){
     contact: 0
 }
 
+
+#my_wall (world){
+#
+#    X: "t(0.22569355  0.8079758  0) d(-122 0 0 1)"
+#    shape: ssBox
+#    size: [1.00000000e-03 0.26469902e+00 7.00000000e-01 0.00000000e+00]
+#    contact: 1
+#
+#}
 
 
 
