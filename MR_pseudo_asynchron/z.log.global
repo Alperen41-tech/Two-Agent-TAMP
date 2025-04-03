@@ -1,0 +1,10 @@
+** compiled at:     Nov 26 2024 16:46:14
+** execution start: 2025-04-03 19:42:53:898776
+graph.cpp:initParameters:1512(3) opening config file 'rai.cfg'
+graph.cpp:initParameters:1519(3)  - failed
+graph.cpp:initParameters:1525(3) opening base config file '/root/local/rai/../local.cfg'
+graph.cpp:initParameters:1531(3)  - failed
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/MR_pseudo_asynchron'
+util.cpp:getIs:1071(3) opening input file 'cross_map.g'
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/MR_pseudo_asynchron'
+kin.cpp:setJointState:675(-2) CHECK_EQ failed: '_q.N'=6 'N'=3 -- wrong joint state dimensionalities
