@@ -12,7 +12,7 @@ base_origin2 (world): {
 # Robotic agents
 r1 (base_origin1) {
 
-    Q: "t(2.5 -3.5 0)"
+    Q: "t(4 0 0)"
     shape: ssCylinder
     size: [0.2, 0.3, 0.01]
     color: [1, 0, 1]
@@ -26,7 +26,7 @@ r1 (base_origin1) {
 
 r2 (base_origin2) {
 
-    Q: "t(-2.5 -3.5 0)"
+    Q: "t(-4 0 0)"
     shape: ssCylinder
     size: [0.2, 0.3, 0.01]
     color: [1, 0, 1]
@@ -44,7 +44,7 @@ r2 (base_origin2) {
 
 m1 {
 
-    X: "t(1 0 0.11)"
+    X: "t(2.5 0 0.11)"
     shape: ssBox
     size: [0.4, 0.4, 0.2, 0.01]
     color: [1, 1, 0]
@@ -54,7 +54,7 @@ m1 {
 
 
 m2{
-    X: "t(-1 0 0.11)"
+    X: "t(-2.5 0 0.11)"
     shape: ssBox
     size: [0.4, 0.4, 0.2, 0.01]
     color: [1, 1, 0]
@@ -68,9 +68,8 @@ m2{
 
 
 g1{
-    X: "t(-2.5 +3.5 0.11)"
+    X: "t(+4.75 0 .11)"
 }
-
 
 goal_area1 (g1) {
     Q: "t(0 0 -0.11)"
@@ -80,10 +79,10 @@ goal_area1 (g1) {
     contact: 0
 }
 
-g2{
-    X: "t(+2.5 3.5 0.11)"
-}
 
+g2{
+    X: "t(-4.75 0 0.11)"
+}
 
 goal_area2 (g2){
     Q: "t(0 0 -0.11)"
@@ -94,14 +93,51 @@ goal_area2 (g2){
 }
 
 
-#my_wall{
-#
-#    X: "t(0.22569355  0.8079758  0.35) d(-122 0 0 1)"
-#    shape: ssBox
-#    size: [0.3 1.3 0.7 0]
-#    contact: 1
-#
-#}
+
+# walls for the tunnel
+
+wall1{
+    X: "t(3.1 -3.2 0.41)"
+    shape: ssBox
+    size: [3.2, 5, .8, 0.01]
+    color: [0, 1, 1]
+    mass: 0.1
+    contact: 1 
+}
+
+wall2{
+    X: "t(-3.1 -3.2 0.41)"
+    shape: ssBox
+    size: [3.2, 5, .8, 0.01]
+    color: [0, 1, 1]
+    mass: 0.1
+    contact: 1 
+}
+
+
+wall3{
+    X: "t(3.1 +3.2 0.41)"
+    shape: ssBox
+    size: [3.2, 5, .8, 0.01]
+    color: [0, 1, 1]
+    mass: 0.1
+    contact: 1 
+}
+
+wall4{
+    X: "t(-3.1 +3.2 0.41)"
+    shape: ssBox
+    size: [3.2, 5, .8, 0.01]
+    color: [0, 1, 1]
+    mass: 0.1
+    contact: 1 
+}
+
+
+
+
+
+
 
 
 
