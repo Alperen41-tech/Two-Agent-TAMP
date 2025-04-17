@@ -75,8 +75,8 @@ goal_area1 (g1) {
     Q: "t(0 0 -0.11)"
     shape: ssBox
     size: [0.5, 0.5, 0.001, 0]
-    color: [0, 1, 1]
-    contact: 0
+    color: [0 0 0]
+    contact: 1
 }
 
 
