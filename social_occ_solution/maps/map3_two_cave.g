@@ -99,7 +99,7 @@ goal_area2 (g2){
 wall1{
     X: "t(3.1 -3.2 0.41)"
     shape: ssBox
-    size: [3.2, 5, .8, 0.01]
+    size: [4.5, 5.75, .8, 0.01]
     color: [0, 1, 1]
     mass: 0.1
     contact: 1 
@@ -108,7 +108,7 @@ wall1{
 wall2{
     X: "t(-3.1 -3.2 0.41)"
     shape: ssBox
-    size: [3.2, 5, .8, 0.01]
+    size: [4.5, 5.75, .8, 0.01]
     color: [0, 1, 1]
     mass: 0.1
     contact: 1 
@@ -118,7 +118,7 @@ wall2{
 wall3{
     X: "t(3.1 +3.2 0.41)"
     shape: ssBox
-    size: [3.2, 5, .8, 0.01]
+    size: [4.5, 5.75, .8, 0.01]
     color: [0, 1, 1]
     mass: 0.1
     contact: 1 
@@ -127,7 +127,7 @@ wall3{
 wall4{
     X: "t(-3.1 +3.2 0.41)"
     shape: ssBox
-    size: [3.2, 5, .8, 0.01]
+    size: [4.5, 5.75, .8, 0.01]
     color: [0, 1, 1]
     mass: 0.1
     contact: 1 

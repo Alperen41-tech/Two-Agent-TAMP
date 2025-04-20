@@ -67,7 +67,7 @@ m2{
 # Goal areas
 
 
-g1{
+g2{
     X: "t(-2.5 +4.3 0.11)"
 }
 
@@ -80,7 +80,7 @@ goal_area1 (g1) {
 }
 
 
-g2{
+g1{
     X: "t(-4 +4.3 0.11)"
 }
 
@@ -95,9 +95,9 @@ goal_area2 (g2){
 
 
 wall1{
-    X: "t(-2.5 3.5 0.41)"
+    X: "t(-2.5 3 0.41)"
     shape: ssBox
-    size: [2, 0.2, .8, 0.01]
+    size: [2.5, 0.2, .8, 0.01]
     color: [0, 1, 1]
     mass: 0.1
     contact: 1 
@@ -105,9 +105,9 @@ wall1{
 
 
 wall2 (wall1){
-    X: "t(-1.5 4.3 0.41)"
+    X: "t(-1 4.3 0.41)"
     shape: ssBox
-    size: [0.2, 1.5, .8, 0.01]
+    size: [0.2, 2, .8, 0.01]
     color: [0, 1, 1]
     mass: 0.1
     contact: -1 
