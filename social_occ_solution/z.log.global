@@ -1,5 +1,5 @@
 ** compiled at:     Nov 26 2024 16:46:14
-** execution start: 2025-04-21 11:09:38:698776
+** execution start: 2025-04-21 14:19:23:506181
 graph.cpp:initParameters:1512(3) opening config file 'rai.cfg'
 graph.cpp:initParameters:1519(3)  - failed
 graph.cpp:initParameters:1525(3) opening base config file '/root/local/rai/../local.cfg'
@@ -22,14 +22,13 @@ util.cpp:getIs:1071(3) opening input file 'map1_simple_cross.g'
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
 util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map2_tunnel.g'
+util.cpp:getIs:1071(3) opening input file 'map1_simple_cross.g'
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
 util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map2_tunnel.g'
+util.cpp:getIs:1071(3) opening input file 'map1_simple_cross.g'
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-RRT_PathFinder.cpp:RRT_PathFinder:256(0) initializing with infeasible qT:
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
 util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map2_tunnel.g'
+util.cpp:getIs:1071(3) opening input file 'map1_simple_cross.g'
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
