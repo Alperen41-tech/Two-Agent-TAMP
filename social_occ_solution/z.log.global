@@ -1,54 +1,9 @@
 ** compiled at:     Nov 26 2024 16:46:14
-** execution start: 2025-04-21 18:17:46:216935
+** execution start: 2025-04-25 23:56:29:126009
 graph.cpp:initParameters:1512(3) opening config file 'rai.cfg'
 graph.cpp:initParameters:1519(3)  - failed
 graph.cpp:initParameters:1525(3) opening base config file '/root/local/rai/../local.cfg'
 graph.cpp:initParameters:1531(3)  - failed
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map1_simple_cross.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map1_simple_cross.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map1_simple_cross.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map2_tunnel.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map3_two_cave.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map3_two_cave.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-RRT_PathFinder.cpp:RRT_PathFinder:256(0) initializing with infeasible qT:
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map4_one_cave.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-RRT_PathFinder.cpp:RRT_PathFinder:256(0) initializing with infeasible qT:
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map4_one_cave.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-RRT_PathFinder.cpp:RRT_PathFinder:256(0) initializing with infeasible qT:
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map4_one_cave.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-RRT_PathFinder.cpp:RRT_PathFinder:256(0) initializing with infeasible qT:
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map4_one_cave.g'
-util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-RRT_PathFinder.cpp:RRT_PathFinder:256(0) initializing with infeasible qT:
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
 util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
 util.cpp:getIs:1071(3) opening input file 'map5_pioneer.g'
