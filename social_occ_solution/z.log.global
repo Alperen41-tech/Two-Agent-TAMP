@@ -1,10 +1,27 @@
 ** compiled at:     Nov 26 2024 16:46:14
-** execution start: 2025-04-25 23:56:29:126009
+** execution start: 2025-04-28 15:20:54:348807
 graph.cpp:initParameters:1512(3) opening config file 'rai.cfg'
 graph.cpp:initParameters:1519(3)  - failed
 graph.cpp:initParameters:1525(3) opening base config file '/root/local/rai/../local.cfg'
 graph.cpp:initParameters:1531(3)  - failed
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:cd_file:1042(3) entering path 'maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
-util.cpp:getIs:1071(3) opening input file 'map5_pioneer.g'
+util.cpp:cd_file:1042(3) entering path 'segman_maps/real_maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
+util.cpp:getIs:1071(3) opening input file 'pcg-1.g'
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/real_maps'
+util.cpp:cd_file:1042(3) entering path '..' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/real_maps'
+util.cpp:getIs:1071(3) opening input file 'base-walls-min.g'
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/real_maps'
 util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
+util.cpp:cd_file:1042(3) entering path 'segman_maps/real_maps' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
+util.cpp:getIs:1071(3) opening input file 'pcg-1.g'
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/real_maps'
+util.cpp:cd_file:1042(3) entering path '..' from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/real_maps'
+util.cpp:getIs:1071(3) opening input file 'base-walls-min.g'
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/real_maps'
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution'
+kin.cpp:getFrame:415(-1) cannot find frame named 'ego2'
+kin.cpp:getFrame:415(-1) cannot find frame named 'obj2'
+kin.cpp:getFrame:415(-1) cannot find frame named 'ego1'
+kin.cpp:getFrame:415(-1) cannot find frame named 'obj1'
+RRT_PathFinder.cpp:RRT_PathFinder:255(0) initializing with infeasible q0:

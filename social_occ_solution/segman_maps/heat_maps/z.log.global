@@ -1,0 +1,12 @@
+** compiled at:     Nov 26 2024 16:46:14
+** execution start: 2025-04-28 13:30:35:328072
+graph.cpp:initParameters:1512(3) opening config file 'rai.cfg'
+graph.cpp:initParameters:1519(3)  - failed
+graph.cpp:initParameters:1525(3) opening base config file '/root/local/rai/../local.cfg'
+graph.cpp:initParameters:1531(3)  - failed
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/heat_maps'
+util.cpp:getIs:1071(3) opening input file 'pcg-1-hard-heatmap'
+util.cpp:getIs:1074(-2) could not open file 'pcg-1-hard-heatmap' for input from '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/heat_maps / .'
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/heat_maps'
+util.cpp:getIs:1071(3) opening input file 'pcg-1-hard-heatmap.g'
+util.cpp:cd_start:1034(3) entering path '/home/alperen/robotics390/Two-Agent-TAMP/social_occ_solution/segman_maps/heat_maps'

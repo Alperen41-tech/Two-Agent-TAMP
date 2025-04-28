@@ -14,6 +14,8 @@ block_7_5 (floor) 	{  Q:[0.6, -0.2, 0.2, -1, 0, 0, 0], shape:ssBox, size:[0.4, 0
 block_8_7 (floor) 	{  Q:[1, 0.6, 0.2, -1, 0, 0, 0], shape:ssBox, size:[0.4, 0.4, 0.4, 0.01], color:[0.6953, 0.515625, 0.453125], contact:1, mass:100, inertia:[0 0 0] }
 block_9_8 (floor) 	{  Q:[1.4, 1, 0.2, -1, 0, 0, 0], shape:ssBox, size:[0.4, 0.4, 0.4, 0.01], color:[0.6953, 0.515625, 0.453125], contact:1, mass:100, inertia:[0 0 0] }
 
+block_new (floor) 	{  Q:[-1.5, -1.2, 0.2, -1, 0, 0, 0], shape:ssBox, size:[0.4, 0.4, 0.4, 0.01], color:[0.6953, 0.515625, 0.453125], contact:1, mass:100, inertia:[0 0 0] }
+
 
 
 egoJoint1 (world) 	{  Q:[0, 0, 0.1, 1, 0, 0, 0] }
